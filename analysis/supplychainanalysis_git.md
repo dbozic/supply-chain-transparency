@@ -4,7 +4,7 @@ Supply Chain Transparency Analysis
 ### Data Setup and Import
 
 We will start by importing the required .csv file containg data on the
-60 companies as well as their supply chain transparency scores.
+sixty companies as well as their supply chain transparency scores.
 
 ``` r
 # Assigning the .csv data into a variable
